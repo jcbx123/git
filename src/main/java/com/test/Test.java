@@ -7,6 +7,7 @@ public class Test {
         System.out.println("hello,hot-fix");
         System.out.println("hello,git");
         System.out.println("second,git");
+        System.out.println("hello,master");
 
     }
 
