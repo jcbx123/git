@@ -8,7 +8,8 @@ public class Test {
         System.out.println("hello,git");
         System.out.println("second,git");
         System.out.println("hello,master");
-
+        System.out.println("pull,commit");
+        
     }
 
 }
